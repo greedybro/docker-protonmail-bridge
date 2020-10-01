@@ -1,1 +1,12 @@
-# docker-protonmail-bridge
+# Protonmail-bridge docker images 🐳🖼
+
+## Usage
+
+
+```
+
+### Building
+
+```shell
+make build-protonmail-bridge
+```
